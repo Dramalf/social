@@ -1,7 +1,19 @@
 {
-  "total": 1,
-  "last_updated": "2026-04-13T23:36:21.183Z",
+  "total": 2,
+  "last_updated": "2026-04-13T23:41:34.610Z",
   "posts": [
+    {
+      "id": "20260413-234131",
+      "path": "posts/2026/04/13/234131-也许我们不再需要推特",
+      "preview": "也许我们不再需要推特",
+      "tags": [
+        "gi",
+        "github",
+        "social"
+      ],
+      "has_media": true,
+      "created_at": "2026-04-13T23:41:31.865Z"
+    },
     {
       "id": "20260413-233619",
       "path": "posts/2026/04/13/233619-hello-world-this-is-my-first-",
