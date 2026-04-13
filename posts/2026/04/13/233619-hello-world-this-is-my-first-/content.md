@@ -1,0 +1,1 @@
+Hello world! This is my first post on gi — a GitHub-based social media. Each post is a commit. 🚀
