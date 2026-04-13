@@ -1,5 +1,17 @@
 {
-  "total": 0,
-  "last_updated": "2026-04-13T23:36:15.603Z",
-  "posts": []
+  "total": 1,
+  "last_updated": "2026-04-13T23:36:21.183Z",
+  "posts": [
+    {
+      "id": "20260413-233619",
+      "path": "posts/2026/04/13/233619-hello-world-this-is-my-first-",
+      "preview": "Hello world! This is my first post on gi — a GitHub-based social media. Each post is a commit. 🚀",
+      "tags": [
+        "hello",
+        "firstpost"
+      ],
+      "has_media": false,
+      "created_at": "2026-04-13T23:36:19.568Z"
+    }
+  ]
 }
