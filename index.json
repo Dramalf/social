@@ -5,7 +5,7 @@
     {
       "id": "20260414-223340",
       "path": "posts/2026/04/14/223340-gi-is-now-live-on-the-web--v",
-      "preview": "gi is now live on the web 🌐 Visit https://gi-social.vercel.app to browse your feed, post updates, a",
+      "preview": "gi is now live on the web \ud83c\udf10\n\nVisit [gi-social.vercel.app](https://gi-social.vercel.app) to browse your feed, post updates, and follow friends.\n\n**No database. No backend. Just git.**",
       "tags": [
         "gi",
         "launch",
@@ -22,14 +22,14 @@
       "tags": [],
       "has_media": true,
       "media": [
-        "media/透明可乐.png"
+        "media/\u900f\u660e\u53ef\u4e50.png"
       ],
       "created_at": "2026-04-14T00:14:53.352Z"
     },
     {
       "id": "20260413-234131",
-      "path": "posts/2026/04/13/234131-也许我们不再需要推特",
-      "preview": "也许我们不再需要推特",
+      "path": "posts/2026/04/13/234131-\u4e5f\u8bb8\u6211\u4eec\u4e0d\u518d\u9700\u8981\u63a8\u7279",
+      "preview": "\u4e5f\u8bb8\u6211\u4eec\u4e0d\u518d\u9700\u8981\u63a8\u7279",
       "tags": [
         "gi",
         "github",
@@ -41,7 +41,7 @@
     {
       "id": "20260413-233619",
       "path": "posts/2026/04/13/233619-hello-world-this-is-my-first-",
-      "preview": "Hello world! This is my first post on gi — a GitHub-based social media. Each post is a commit. 🚀",
+      "preview": "Hello world! This is my first post on gi \u2014 a GitHub-based social media. Each post is a commit. \ud83d\ude80",
       "tags": [
         "hello",
         "firstpost"
